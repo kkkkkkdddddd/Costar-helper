@@ -8,3 +8,7 @@ djangorestframework==3.14
 openai==1.12.0
 django-cors-headers==4.3
 
+可以使用硅基流动api
+key:sk-rrmbapplsmawnmhnywmholkcpzqejzkearrbbtawdcxtormf
+url:"https://api.siliconflow.cn/v1"
+
