@@ -15,7 +15,7 @@ class GenerateCostarView(APIView):
         try:
             # 初始化 OpenAI 客户端
             client = OpenAI(
-                api_key="sk-5024cb0b6d55419591da9b3cfcd78bb2",  
+                api_key="sk-5024c换为自己的a9b3cfcd78bb2",  
                 base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
             )
 
