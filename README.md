@@ -57,7 +57,7 @@ python manage.py runserver
 
 Step 3:使用前端
 
-前端文件位于`frontend/index`目录中。直接打开`index.html`文件即可使用前端功能。
+前端文件位于`frontend/index`目录中。直接打开`index.html`文件即可使用前端功能。请提前把index.html文件放入frontend文件夹
 
 
 硅基流动API
